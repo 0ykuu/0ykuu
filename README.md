@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi# 👋 Hi, I'm 0ykuu
 
-<!--
-**0ykuu/0ykuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+* 🏛️ **Education:** Just finished my 1st year as a **Management Information Systems (MIS)** student!
+* 🎯 **Current Focus:** Learning the fundamentals of tech, data, and business alignment.
+* 🛡️ **Passions:** Deeply interested in **Cyber Security** and learning how to protect digital assets.
+* 🚀 **Goal:** I'm currently in "experimental mode"—exploring GitHub, learning Git, and building my very first tech projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Learning & Playing With Right Now
+* 💻 Basic programming and MIS concepts from university
+* 🌐 Networking and security fundamentals
+* 🐙 Version control with GitHub (my first repository!)
+
+---
+
+### 📫 Connect with Me
+* 💬 Ask me about: What I'm learning in my MIS classes!
+* 📧 How to reach me: oykueryildiz6@gmail.com
+* ⚡ I'm diving into tech with no prior experience, learning by doing!👋
+
